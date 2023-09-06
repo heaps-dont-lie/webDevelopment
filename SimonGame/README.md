@@ -32,7 +32,7 @@ Simon is a classic memory game that challenges your ability to recall sequences 
 
 1. Clone this repository to your local machine.
 2. Open the index.html file in your web browser.
-3. OR just use this link to play the game without any fuss!!
+3. OR just use this [link](https://heaps-dont-lie.github.io/webDevelopment/SimonGame) to play the game without any fuss!!
 
 ## Technologies Used
 
